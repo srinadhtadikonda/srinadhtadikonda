@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![@srinadhtadikonda board](https://holopin.io/api/user/board?user=srinadhtadikonda)](https://www.holopin.io/@srinadhtadikonda)
+https://www.holopin.io/@srinadhtadikonda
