@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=srinadhtadikonda)](https://www.holopin.io/@srinadhtadikonda)
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=@srinadhtadikonda)](https://www.holopin.io/@srinadhtadikonda)
