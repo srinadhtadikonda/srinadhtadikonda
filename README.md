@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/srinadhfaculty"><img src="https://api.daily.dev/devcards/v2/XTcO2bH5N6qBvFFUGmZBy.png?type=default&r=uyo" width="356" alt="SRINADH TADIKONDA's Dev Card"/></a>
+
 [![@srinadhtadikonda's Holopin board](https://holopin.me/srinadhtadikonda)](https://holopin.io/@srinadhtadikonda)
