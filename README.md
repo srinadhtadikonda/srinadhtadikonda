@@ -39,7 +39,7 @@ My Skills<br>
   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&theme=algolia&show_icons=true)
+![Srinadh's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&theme=algolia&show_icons=true)
 
 
 
