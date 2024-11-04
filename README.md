@@ -49,33 +49,6 @@ My Skills<br>
 ![](https://github-profile-trophy.vercel.app/?username=srinadhtadikonda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://dev.to/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://twitter.com/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://codesandbox.com/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://kaggle.com/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://fb.com/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://instagram.com/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://dribbble.com/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://www.behance.net/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://hashnode.com/@srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://medium.com/@srindhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srindhtadikonda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/srinadhtadikonda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://discord.gg/srinadhtadikonda#1250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="srinadhtadikonda#1250" height="30" width="40" /></a>
-<a href="/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
+<a href="/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/srinadhtadikonda/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
 </p>
 
