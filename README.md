@@ -39,7 +39,14 @@ My Skills<br>
   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
 </div>
 
-![Srinadh's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&theme=algolia&show_icons=true)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srinadhtadikonda&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=srinadhtadikonda&theme=radical&hide_border=false)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=srinadhtadikonda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--START_SECTION:waka-->
 
 
