@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=python,java,dotnet,html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,dotnet,html,css,javascript,bootstrap,oracle,mysql)](https://skillicons.dev)
 
 <a href="https://app.daily.dev/srinadhfaculty"><img src="https://api.daily.dev/devcards/v2/XTcO2bH5N6qBvFFUGmZBy.png?type=default&r=uyo" width="356" alt="SRINADH TADIKONDA's Dev Card"/></a>
 
