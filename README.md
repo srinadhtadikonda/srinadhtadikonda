@@ -49,6 +49,4 @@ My Skills<br>
 ![](https://github-profile-trophy.vercel.app/?username=srinadhtadikonda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
-<a href="/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/srinadhtadikonda/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-</p>
 
