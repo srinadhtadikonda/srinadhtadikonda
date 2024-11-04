@@ -40,6 +40,6 @@ My Skills<br>
 </div>
 
 ![Srinadh's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&theme=algolia&show_icons=true)
-
+![Srinadh's GitHub-readme-stats](https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&theme=algolia&show_icons=true)
 
 
