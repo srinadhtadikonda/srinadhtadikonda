@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My Skills<br>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,springboot,python,django,flask,r,dotnet,html,css,javascript,bootstrap,angular,react,typescript,nodejs,php,mysql,windows,linux,codepen,eclipse,replit,vim,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,django,flask,r,dotnet,html,css,javascript,bootstrap,angular,react,typescript,nodejs,php,mysql,windows,linux,codepen,eclipse,replit,vim,git,github)](https://skillicons.dev)
 
 <a href="https://app.daily.dev/srinadhfaculty"><img src="https://api.daily.dev/devcards/v2/XTcO2bH5N6qBvFFUGmZBy.png?type=default&r=uyo" width="356" alt="SRINADH TADIKONDA's Dev Card"/></a>
 
@@ -39,6 +39,7 @@ My Skills<br>
   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&theme=algolia&show_icons=true)
 
 
 
