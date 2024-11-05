@@ -45,6 +45,11 @@ My Skills<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srinadhtadikonda&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
+
+
+[![srinadhtadikonda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srinadhtadikonda&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=srinadhtadikonda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
