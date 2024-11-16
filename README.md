@@ -22,6 +22,7 @@ My Skills<br>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/673831a4f20970fd482fdcec?variant=dark)](https://roadmap.sh)
 
+https://roadmap.sh/u/srinadhtadikonda
 
 <a href="https://app.daily.dev/srinadhfaculty"><img src="https://api.daily.dev/devcards/v2/XTcO2bH5N6qBvFFUGmZBy.png?type=default&r=uyo" width="356" alt="SRINADH TADIKONDA's Dev Card"/></a>
 
