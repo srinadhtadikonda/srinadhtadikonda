@@ -28,13 +28,16 @@ https://roadmap.sh/u/srinadhtadikonda
 
 <br><br><br><br>
 
+https://dev.to/srinadhtadikonda
+<br><br><br><br>
+
+
 <a href="https://app.daily.dev/srinadhfaculty"><img src="https://api.daily.dev/devcards/v2/XTcO2bH5N6qBvFFUGmZBy.png?type=default&r=uyo" width="356" alt="SRINADH TADIKONDA's Dev Card"/></a>
 
+<br><br><br><br>
 
 [![@srinadhtadikonda's Holopin board](https://holopin.me/srinadhtadikonda)](https://holopin.io/@srinadhtadikonda)
-
-
-https://dev.to/srinadhtadikonda
+<br><br><br><br>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
