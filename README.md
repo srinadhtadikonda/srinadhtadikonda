@@ -28,14 +28,7 @@ https://roadmap.sh/u/srinadhtadikonda
 
 <br><br><br><br>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/srinadhtadikonda"
-    width="600"
-    height="120"
-  />
-</a>
-  
+
 
 <a href="https://app.daily.dev/srinadhfaculty"><img src="https://api.daily.dev/devcards/v2/XTcO2bH5N6qBvFFUGmZBy.png?type=default&r=uyo" width="356" alt="SRINADH TADIKONDA's Dev Card"/></a>
 
@@ -61,6 +54,17 @@ https://roadmap.sh/u/srinadhtadikonda
   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
 </div>
 
+<br><br><br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/srinadhtadikonda"
+    width="600"
+    height="120"
+  />
+</a>
+
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srinadhtadikonda&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
