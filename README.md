@@ -28,6 +28,14 @@ https://roadmap.sh/u/srinadhtadikonda
 
 <br><br><br><br>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/srinadhtadikonda"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 <a href="https://app.daily.dev/srinadhfaculty"><img src="https://api.daily.dev/devcards/v2/XTcO2bH5N6qBvFFUGmZBy.png?type=default&r=uyo" width="356" alt="SRINADH TADIKONDA's Dev Card"/></a>
 
