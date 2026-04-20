@@ -1,5 +1,7 @@
 ![Header](./logo.png)
-<p align="center" style="white-space: nowrap;">
+<p align="center" style="display:inline">
+
+<p align="left" style="white-space: nowrap;">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" style="display:inline-block;margin-right:6px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"/>
   </a>
@@ -34,7 +36,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular"/>
   </a>
 </p>
-
 https://roadmap.sh/u/srinadhtadikonda
 
 <br><br><br><br>
