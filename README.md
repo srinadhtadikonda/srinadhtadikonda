@@ -76,17 +76,3 @@ https://roadmap.sh/u/srinadhtadikonda
 ![](https://github-profile-trophy.vercel.app/?username=srinadhtadikonda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://dev.to/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://twitter.com/srinadhfaculty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srinadhfaculty" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://kaggle.com/@srinadhfaculty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@srinadhfaculty" height="30" width="40" /></a>
-<a href="https://medium.com/@srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/srinadhtadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srinadhtadikonda" height="30" width="40" /></a>
-<a href="https://discord.gg/srianadhtadikonda#1250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="srianadhtadikonda#1250" height="30" width="40" /></a>
-</p>
-
-<p align="left"> <a href="https://twitter.com/srinadhfaculty" target="blank"><img src="https://img.shields.io/twitter/follow/srinadhfaculty?logo=twitter&style=for-the-badge" alt="srinadhfaculty" /></a> </p>
