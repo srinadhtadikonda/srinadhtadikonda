@@ -1,9 +1,5 @@
 ![Header](./logo.png)
-
-
-
-
-
+[![roadmap.sh](https://roadmap.sh/card/wide/673831a4f20970fd482fdcec?variant=dark)](https://roadmap.sh)
 🚀 Skills<br><br>
 💻 Programming Languages
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /> </p>
