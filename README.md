@@ -52,6 +52,8 @@
   />
 </a>
 
+
+https://gssoc.girlscript.org/profile/0b24fe7b-f62c-415d-902f-15c4eafd458c
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srinadhtadikonda&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
