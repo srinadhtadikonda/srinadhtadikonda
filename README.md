@@ -27,6 +27,13 @@
 
 #GSSOC2026 Badges
 
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/0b24fe7b-f62c-415d-902f-15c4eafd458c">
+    <img src="https://gssoc.girlscript.tech/Logo/GS_logo_White.png" alt="GSSoC 2026 Profile" width="220"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/gssoc2026/gssoc-badge-role_mentor.png" alt="Mentor Badge" width="150" height="150">&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/gssoc2026/gssoc-badge-bounty_master.png" alt="Bounty Master Badge" width="150" height="150">
@@ -40,8 +47,7 @@
   />
 </a>
 
-https://gssoc.girlscript.org/profile/0b24fe7b-f62c-415d-902f-15c4eafd458c
-  
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srinadhtadikonda&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
