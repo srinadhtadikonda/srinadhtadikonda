@@ -48,7 +48,10 @@
   </a>
 </p>
 
- 
+ #GOOGLE
+
+ [![Google Skills Profile](https://developers.google.com/static/profile/badges/skillsboost/images/skillsboost_badge.png)](https://www.skills.google/public_profiles/49e2f52c-d029-46c8-a809-311a9a4a6824)
+ <br><br><br>
 # 📊 GitHub Stats:
 <a href="https://github.com/devxb/gitanimals">
   <img
