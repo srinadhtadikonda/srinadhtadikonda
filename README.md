@@ -25,8 +25,6 @@
 [![@srinadhtadikonda's Holopin board](https://holopin.me/srinadhtadikonda)](https://holopin.io/@srinadhtadikonda)
 <br><br><br><br>
 
-#GSSOC2026 Badges
-
 <h2 align="center">🪶 GirlScript Summer of Code 2026</h2>
 
 <p align="center">
