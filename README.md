@@ -27,17 +27,36 @@
 
 #GSSOC2026 Badges
 
+<h2 align="center">🪶 GirlScript Summer of Code 2026</h2>
 
 <p align="center">
   <a href="https://gssoc.girlscript.org/profile/0b24fe7b-f62c-415d-902f-15c4eafd458c">
-    <img src="https://gssoc.girlscript.tech/Logo/GS_logo_White.png" alt="GSSoC 2026 Profile" width="220"/>
+    <img src="https://raw.githubusercontent.com/srinadhtadikonda/srinadhtadikonda/main/gssoc2026/GS_logo_White.png" width="220" alt="GSSoC 2026">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/gssoc2026/gssoc-badge-role_mentor.png" alt="Mentor Badge" width="150" height="150">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/gssoc2026/gssoc-badge-bounty_master.png" alt="Bounty Master Badge" width="150" height="150">
+  <a href="https://gssoc.girlscript.org/profile/0b24fe7b-f62c-415d-902f-15c4eafd458c">
+    <img src="https://img.shields.io/badge/View%20My-GSSoC%202026%20Profile-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GSSoC Profile">
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srinadhtadikonda/srinadhtadikonda/main/gssoc2026/gssoc-badge-role_mentor.png" width="140" alt="Mentor Badge"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/srinadhtadikonda/srinadhtadikonda/main/gssoc2026/gssoc-badge-bounty_master.png" width="140" alt="Bounty Master Badge"/>
+</p>
+
+<p align="center">
+  <b>🏅 Mentor | 💰 Bounty Master | 🚀 GirlScript Summer of Code 2026</b>
+</p>
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/0b24fe7b-f62c-415d-902f-15c4eafd458c">
+    <img src="https://img.shields.io/badge/Visit%20My%20GSSoC%20Profile-Click%20Here-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img
