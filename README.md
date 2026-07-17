@@ -50,9 +50,10 @@
 
  #GOOGLE
 
-
+<p align="center">
 <a href="https://g.dev/srinadhtadikonda">
 <img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/googledeveloper/logo.png" width=150 height=150></a>
+</p>
  <br><br><br>
 # 📊 GitHub Stats:
 <a href="https://github.com/devxb/gitanimals">
