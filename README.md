@@ -27,7 +27,7 @@
 
 #GSSOC2026 Badges
 
-<img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/gssoc2026/gssoc-badge-role_mentor.png">
+<img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/gssoc2026/gssoc-badge-role_mentor.png" width=50 height=50>
 
 <br><br><br>
 
