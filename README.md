@@ -27,9 +27,10 @@
 
 #GSSOC2026 Badges
 
-<img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/gssoc2026/gssoc-badge-role_mentor.png" width=150 height=150>
-<img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/gssoc2026/gssoc-badge-bounty_master.png" width=150 height=150>
-<br><br><br>
+<p align="center">
+  <img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/gssoc2026/gssoc-badge-role_mentor.png" alt="Mentor Badge" width="150" height="150">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/gssoc2026/gssoc-badge-bounty_master.png" alt="Bounty Master Badge" width="150" height="150">
+</p>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
