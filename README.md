@@ -25,7 +25,9 @@
 [![@srinadhtadikonda's Holopin board](https://holopin.me/srinadhtadikonda)](https://holopin.io/@srinadhtadikonda)
 <br><br><br><br>
 
+#GSSOC2026 Badges
 
+<img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/gssoc2026/gssoc-badge-role_mentor.png">
 
 <br><br><br>
 
