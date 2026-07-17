@@ -48,7 +48,8 @@
   </a>
 </p>
 
-
+ 
+# 📊 GitHub Stats:
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/srinadhtadikonda"
@@ -57,8 +58,7 @@
   />
 </a>
 
- 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srinadhtadikonda&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srinadhtadikonda&theme=radical&hide_border=false)
