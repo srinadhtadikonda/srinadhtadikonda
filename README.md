@@ -51,7 +51,8 @@
  #GOOGLE
 
 
-<a href="https://g.dev/srinadhtadikonda"><img src="https://github.com/srinadhtadikonda/srinadhtadikonda/googledeveloper/logo.png"></a>
+<a href="https://g.dev/srinadhtadikonda">
+<img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/googledeveloper/logo.png"></a>
  <br><br><br>
 # 📊 GitHub Stats:
 <a href="https://github.com/devxb/gitanimals">
