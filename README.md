@@ -26,13 +26,6 @@
 <br><br><br><br>
 
 <h2 align="center">🪶 GirlScript Summer of Code 2026</h2>
-
-<p align="center">
-  <a href="https://gssoc.girlscript.org/profile/0b24fe7b-f62c-415d-902f-15c4eafd458c">
-    <img src="https://raw.githubusercontent.com/srinadhtadikonda/srinadhtadikonda/main/gssoc2026/GS_logo_White.png" width="220" alt="GSSoC 2026">
-  </a>
-</p>
-
 <p align="center">
   <a href="https://gssoc.girlscript.org/profile/0b24fe7b-f62c-415d-902f-15c4eafd458c">
     <img src="https://img.shields.io/badge/View%20My-GSSoC%202026%20Profile-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GSSoC Profile">
