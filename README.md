@@ -125,11 +125,15 @@
 ---
 
 ## 📊 Data Visualization
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="45"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/673831a4f20970fd482fdcec?variant=dark)](https://roadmap.sh)
