@@ -116,14 +116,6 @@
 
 ---
 
-## 🧪 Testing
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="45"/>
-</p>
-
----
-
 ## 📈 Data Science
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
@@ -151,6 +143,17 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
+
+---
+
+## 🧪 Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Manual%20Testing-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="45"/>
+</p>
+
+---
 [![roadmap.sh](https://roadmap.sh/card/wide/673831a4f20970fd482fdcec?variant=dark)](https://roadmap.sh)
 
 <a href="https://app.daily.dev/srinadhfaculty"><img src="https://api.daily.dev/devcards/v2/XTcO2bH5N6qBvFFUGmZBy.png?type=default&r=uyo" width="356" alt="SRINADH TADIKONDA's Dev Card"/></a>
