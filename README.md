@@ -262,18 +262,6 @@ I am a technology-focused developer and mentor with interests spanning software 
 
 ---
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=srinadhtadikonda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=srinadhtadikonda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=srinadhtadikonda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=srinadhtadikonda&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 # ✍️ Random Dev Quote
 
 <p align="center">
