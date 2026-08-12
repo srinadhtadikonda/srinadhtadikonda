@@ -211,12 +211,10 @@
 
 [![srinadhtadikonda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srinadhtadikonda&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srinadhtadikonda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!--START_SECTION:waka-->
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srinadhtadikonda&theme=flat&column=6&margin-w=15&margin-h=15)
 <hr>
 
 
