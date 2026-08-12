@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Srinadh Tadikonda
-
 <p align="center">
   <img src="./logo.png" alt="Srinadh Tadikonda" width="180"/>
 </p>
