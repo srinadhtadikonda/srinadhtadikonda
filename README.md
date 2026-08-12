@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Developer | 📊 Data Analyst | 🤖 AI & Machine Learning Enthusiast | 🚀 Technology Mentor</b>
+  <b>💻 Developer &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🤖 AI & Machine Learning Enthusiast &nbsp;|&nbsp; 🚀 Technology Mentor</b>
 </p>
 
 <p align="center">
@@ -22,11 +22,21 @@
 
 ---
 
-## ✍️ Random Dev Quote
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+I am a technology-focused developer and mentor with interests spanning software development, data analytics, artificial intelligence, machine learning, and modern web technologies.
+
+### 🎯 Areas of Focus
+
+- 💻 Software & Web Development
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python, NumPy, Pandas & Scikit-learn
+- ☕ Java & Backend Development
+- 🌐 Frontend & Full-Stack Development
+- ☁️ Cloud, DevOps & CI/CD
+- 🧪 Software Testing & Automation
+- 🚀 Open Source & Technology Mentoring
 
 ---
 
@@ -47,8 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" alt="R"/>
 </p>
 
----
-
 ## 🌐 Frontend Development
 
 <p align="left">
@@ -64,8 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" alt="Redux"/>
 </p>
 
----
-
 ## ⚙️ Backend & Frameworks
 
 <p align="left">
@@ -78,8 +84,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" alt=".NET"/>
 </p>
 
----
-
 ## 🗄️ Databases
 
 <p align="left">
@@ -90,9 +94,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite"/>
 </p>
 
----
-
-## 🤖 AI & Machine Learning
+## 🤖 AI, Machine Learning & Data Science
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" alt="TensorFlow"/>
@@ -103,7 +105,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" alt="Scikit-learn"/>
 </p>
 
----
+## 📊 Data Analytics & Visualization
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+  <img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge" alt="Statistics"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="45" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
 
 ## ☁️ Cloud Platforms
 
@@ -113,8 +125,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" alt="Google Cloud"/>
 </p>
 
----
-
 ## 🔄 Version Control
 
 <p align="left">
@@ -122,8 +132,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" alt="GitLab"/>
 </p>
-
----
 
 ## 🚀 DevOps & CI/CD
 
@@ -133,8 +141,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" alt="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" alt="GitHub Actions"/>
 </p>
-
----
 
 ## 🛠️ Developer Tools
 
@@ -146,30 +152,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/>
 </p>
 
----
-
-## 📊 Data Analytics
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
-  <img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge" alt="Statistics"/>
-</p>
-
----
-
-## 📈 Data Visualization & Business Intelligence
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" alt="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="45" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
-
----
-
-## 🧪 Testing
+## 🧪 Testing & Automation
 
 <p align="left">
   <img src="https://img.shields.io/badge/Manual%20Testing-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Manual Testing"/>
@@ -179,7 +162,7 @@
 
 ---
 
-# 🏆 Achievements & Profiles
+# 🏆 Achievements & Community
 
 ## 🗺️ Developer Roadmap
 
@@ -189,77 +172,75 @@
   </a>
 </p>
 
----
-
-## 🧑‍💻 Daily.dev
-
-<p align="center">
-  <a href="https://app.daily.dev/srinadhfaculty">
-    <img src="https://api.daily.dev/devcards/v2/XTcO2bH5N6qBvFFUGmZBy.png?type=default&r=uyo"
-         width="356"
-         alt="Srinadh Tadikonda's Dev Card"/>
-  </a>
-</p>
-
----
-
-## 🎖️ Holopin
-
-<p align="center">
-  <a href="https://holopin.io/@srinadhtadikonda">
-    <img src="https://holopin.me/srinadhtadikonda"
-         alt="Srinadh Tadikonda's Holopin Board"/>
-  </a>
-</p>
-
----
-
-# 🪶 GirlScript Summer of Code 2026
+## 🪶 GirlScript Summer of Code 2026
 
 <p align="center">
   <a href="https://gssoc.girlscript.org/profile/0b24fe7b-f62c-415d-902f-15c4eafd458c">
-    <img src="https://img.shields.io/badge/View%20My-GSSoC%202026%20Profile-FF69B4?style=for-the-badge&logo=github&logoColor=white"
-         alt="GSSoC 2026 Profile"/>
+    <img src="https://img.shields.io/badge/View%20My-GSSoC%202026%20Profile-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GSSoC 2026 Profile"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srinadhtadikonda/srinadhtadikonda/main/gssoc2026/gssoc-badge-role_mentor.png"
-       width="140"
-       alt="GSSoC Mentor Badge"/>
+  <img src="https://raw.githubusercontent.com/srinadhtadikonda/srinadhtadikonda/main/gssoc2026/gssoc-badge-role_mentor.png" width="140" alt="GSSoC Mentor Badge"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/srinadhtadikonda/srinadhtadikonda/main/gssoc2026/gssoc-badge-bounty_master.png"
-       width="140"
-       alt="GSSoC Bounty Master Badge"/>
+  <img src="https://raw.githubusercontent.com/srinadhtadikonda/srinadhtadikonda/main/gssoc2026/gssoc-badge-bounty_master.png" width="140" alt="GSSoC Bounty Master Badge"/>
 </p>
 
 <p align="center">
   <b>🏅 Mentor &nbsp; | &nbsp; 💰 Bounty Master &nbsp; | &nbsp; 🚀 GSSoC 2026</b>
 </p>
 
----
-
-# 🌐 Google Developer Profile
+## 🌐 Google Developer Profile
 
 <p align="center">
   <a href="https://g.dev/srinadhtadikonda">
-    <img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/googledeveloper/logo.png"
-         width="150"
-         height="150"
-         alt="Google Developer Profile"/>
+    <img src="https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/googledeveloper/logo.png" width="150" height="150" alt="Google Developer Profile"/>
+  </a>
+</p>
+
+## 🧑‍💻 Daily.dev
+
+<p align="center">
+  <a href="https://app.daily.dev/srinadhfaculty">
+    <img src="https://api.daily.dev/devcards/v2/XTcO2bH5N6qBvFFUGmZBy.png?type=default&r=uyo" width="356" alt="Srinadh Tadikonda's Dev Card"/>
+  </a>
+</p>
+
+## 🎖️ Holopin
+
+<p align="center">
+  <a href="https://holopin.io/@srinadhtadikonda">
+    <img src="https://holopin.me/srinadhtadikonda" alt="Srinadh Tadikonda's Holopin Board"/>
   </a>
 </p>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=srinadhtadikonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=srinadhtadikonda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=srinadhtadikonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=srinadhtadikonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=srinadhtadikonda&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=srinadhtadikonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srinadhtadikonda&icon=0&color=0" alt="Profile Views"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=srinadhtadikonda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srinadhtadikonda&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&row=1" alt="GitHub Trophies"/>
+</p>
 
 ---
 
@@ -267,10 +248,7 @@
 
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/srinadhtadikonda"
-         width="600"
-         height="120"
-         alt="GitAnimals"/>
+    <img src="https://render.gitanimals.org/lines/srinadhtadikonda" width="600" height="120" alt="GitAnimals"/>
   </a>
 </p>
 
@@ -280,171 +258,86 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinadhtadikonda&theme=high-contrast"
-         alt="Srinadh Tadikonda's GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinadhtadikonda&theme=high-contrast" alt="Srinadh Tadikonda's GitHub Activity Graph"/>
   </a>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/trophies?username=srinadhtadikonda&theme=tokyonight&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=false" alt="GitHub Trophies" />
-</div>
-
----
-
-# 🪪 Developer Profile
+# ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
-       width="180"
-       alt="About Me"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 ---
 
 # 🔗 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-       width="32"
-       height="32"
-       alt="GitHub"
-       title="GitHub"/>
-</a>
-
-<a href="https://www.gitlab.com/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg"
-       width="32"
-       height="32"
-       alt="GitLab"
-       title="GitLab"/>
-</a>
-
-<a href="https://www.x.com/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-       width="32"
-       height="32"
-       alt="X"
-       title="X"/>
-</a>
-
-<a href="https://www.threads.net/@srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg"
-       width="32"
-       height="32"
-       alt="Threads"
-       title="Threads"/>
-</a>
-
-<a href="https://srinadhtadikonda.hashnode.dev">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg"
-       width="32"
-       height="32"
-       alt="Hashnode"
-       title="Hashnode"/>
-</a>
-
-<a href="https://www.medium.com/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg"
-       width="32"
-       height="32"
-       alt="Medium"
-       title="Medium"/>
-</a>
-
-<a href="https://www.dev.to/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg"
-       width="32"
-       height="32"
-       alt="DEV"
-       title="DEV"/>
-</a>
-
-<a href="https://www.linkedin.com/in/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-       width="32"
-       height="32"
-       alt="LinkedIn"
-       title="LinkedIn"/>
-</a>
-
-<a href="https://www.twitch.tv/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg"
-       width="32"
-       height="32"
-       alt="Twitch"
-       title="Twitch"/>
-</a>
-
-<a href="https://www.youtube.com/@srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"
-       width="32"
-       height="32"
-       alt="YouTube"
-       title="YouTube"/>
-</a>
-
-<a href="https://www.behance.com/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg"
-       width="32"
-       height="32"
-       alt="Behance"
-       title="Behance"/>
-</a>
-
-<a href="https://www.codepen.io/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg"
-       width="32"
-       height="32"
-       alt="CodePen"
-       title="CodePen"/>
-</a>
-
-<a href="https://codesandbox.io/u/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg"
-       width="32"
-       height="32"
-       alt="CodeSandbox"
-       title="CodeSandbox"/>
-</a>
-
-<a href="https://discord.com/users/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-       width="32"
-       height="32"
-       alt="Discord"
-       title="Discord"/>
-</a>
-
-<a href="https://www.dribbble.com/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg"
-       width="32"
-       height="32"
-       alt="Dribbble"
-       title="Dribbble"/>
-</a>
-
-<a href="https://www.facebook.com/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-       width="32"
-       height="32"
-       alt="Facebook"
-       title="Facebook"/>
-</a>
-
-<a href="https://www.stackoverflow.com/users/srinadhtadikonda">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
-       width="32"
-       height="32"
-       alt="Stack Overflow"
-       title="Stack Overflow"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.gitlab.com/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab"/>
+  </a>
+  &nbsp;
+  <a href="https://www.x.com/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X" title="X"/>
+  </a>
+  &nbsp;
+  <a href="https://www.threads.net/@srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads"/>
+  </a>
+  &nbsp;
+  <a href="https://srinadhtadikonda.hashnode.dev">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" title="Hashnode"/>
+  </a>
+  &nbsp;
+  <a href="https://www.medium.com/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium"/>
+  </a>
+  &nbsp;
+  <a href="https://www.dev.to/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube"/>
+  </a>
+  &nbsp;
+  <a href="https://www.behance.com/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance" title="Behance"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codepen.io/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" title="CodePen"/>
+  </a>
+  &nbsp;
+  <a href="https://codesandbox.io/u/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" alt="CodeSandbox" title="CodeSandbox"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord"/>
+  </a>
+  &nbsp;
+  <a href="https://www.dribbble.com/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" alt="Dribbble" title="Dribbble"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="https://www.stackoverflow.com/users/srinadhtadikonda">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow"/>
+  </a>
 </p>
 
 ---
