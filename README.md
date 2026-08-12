@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Srinadh Tadikonda" width="250"/>
+  <img src="./logo.png" alt="Srinadh Tadikonda" width="500"/>
 </p>
 
 <p align="center">
