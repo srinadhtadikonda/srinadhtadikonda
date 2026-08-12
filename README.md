@@ -235,10 +235,10 @@ I am a technology-focused developer and mentor with interests spanning software 
 </p>
 
 ---
-https://github.com/srinadhtadikonda/srinadhtadikonda/blob/main/README.md
+
 # 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=srinadhtadikonda&theme=algolia
+
 
 ---
 
