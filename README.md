@@ -201,22 +201,7 @@ I am a technology-focused developer and mentor with interests spanning software 
   <img src="https://github-readme-stats.shion.dev/api?username=srinadhtadikonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </p>
 
-
-<h1 align="center">Hi 👋, I'm srinadhtadikonda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinadhtadikonda&label=Profile%20views&color=0e75b6&style=flat" alt="srinadhtadikonda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinadhtadikonda" alt="srinadhtadikonda" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/srinadhtadikonda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="srinadhtadikonda" /></a></p><br><br>
+src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="srinadhtadikonda" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinadhtadikonda&show_icons=true&locale=en&layout=compact" alt="srinadhtadikonda" /></p>
 
