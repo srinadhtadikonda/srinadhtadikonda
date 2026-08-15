@@ -147,6 +147,8 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ## 🏆 Achievements & Community
 
+[![An image of @srinadhtadikonda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srinadhtadikonda)](https://holopin.io/@srinadhtadikonda)
+
 ### 🪶 GirlScript Summer of Code 2026
 
 <p align="center">
