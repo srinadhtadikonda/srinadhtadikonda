@@ -185,16 +185,6 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-maker.vercel.app/api/trophies?username=srinadhtadikonda&theme=tokyonight&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=false" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
