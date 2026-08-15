@@ -201,14 +201,6 @@ I am a technology-focused developer and mentor with interests spanning software 
   <img src="https://github-readme-stats.shion.dev/api?username=srinadhtadikonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </p>
 
-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="srinadhtadikonda" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinadhtadikonda&show_icons=true&locale=en&layout=compact" alt="srinadhtadikonda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&show_icons=true&locale=en" alt="srinadhtadikonda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinadhtadikonda&" alt="srinadhtadikonda" /></p>
-
 
 </p>
 
