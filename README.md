@@ -202,9 +202,11 @@ I am a technology-focused developer and mentor with interests spanning software 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=srinadhtadikonda&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=srinadhtadikonda&theme=dark"
+    alt="GitHub Streak"
+  />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=srinadhtadikonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
