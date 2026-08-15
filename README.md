@@ -195,17 +195,6 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
-## 🌐 Developer Profiles
-
-<p align="center">
-  <a href="https://g.dev/srinadhtadikonda">Google Developer Profile</a> •
-  <a href="https://app.daily.dev/srinadhfaculty">daily.dev</a> •
-  <a href="https://holopin.io/@srinadhtadikonda">Holopin</a> •
-  <a href="https://roadmap.sh">roadmap.sh</a>
-</p>
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
