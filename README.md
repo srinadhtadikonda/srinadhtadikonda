@@ -239,6 +239,10 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
+https://roadmap.sh/u/srinadhtadikonda
+
+---
+
 # 🏆 Achievements & Certifications
 
 ## 👨‍💻 Google Developer
