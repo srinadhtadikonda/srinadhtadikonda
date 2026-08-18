@@ -239,8 +239,8 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/673831a4f20970fd482fdcec?variant=dark" alt="roadmap.sh"/></a>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/673831a4f20970fd482fdcec?variant=dark" alt="roadmap.sh"/></a>
 ---
 
 # 🏆 Achievements & Certifications
