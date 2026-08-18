@@ -271,7 +271,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
-## 🏆 Coding & Learning Profiles
+## 🏆 KAGGLE
 
 <p align="center">
 
