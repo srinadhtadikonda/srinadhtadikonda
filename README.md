@@ -12,16 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 
-  ---
-  ## 👨‍💻 Google Developer
-  
-  <a href="https://g.dev/srinadhtadikonda">
-    <img src="https://img.shields.io/badge/Google%20Developer-Profile-red?style=for-the-badge&logo=google" alt="Google Developer Profile"/>
-  </a>
-</p>
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -150,6 +140,25 @@ I enjoy transforming ideas into working applications, extracting insights from d
 ---
 
 ## 🏆 Achievements & Community
+
+  ---
+  ## 👨‍💻 Google Developer
+  
+  <a href="https://g.dev/srinadhtadikonda">
+    <img src="https://img.shields.io/badge/Google%20Developer-Profile-red?style=for-the-badge&logo=google" alt="Google Developer Profile"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+### 🏆 Microsoft Learn Achievements
+
+<a href="https://learn.microsoft.com/en-us/users/me/achievements#badges-section">
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-Achievements-5C2D91?style=for-the-badge&logo=microsoft" alt="Microsoft Learn Achievements"/>
+</a>
+---
 
 [![An image of @srinadhtadikonda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srinadhtadikonda)](https://holopin.io/@srinadhtadikonda)
 
