@@ -190,6 +190,23 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
+## 🏅 Credly Badges
+
+<a href="https://www.credly.com/users/srinadh-tadikonda" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-View%20My%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
+</a>
+---
+
+## 🏆 Coding & Learning Profiles
+
+<p align="left">
+
+<a href="https://www.kaggle.com/srinadhfaculty" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+
+</p>
+---
 ## 🎖️ Holopin Badges
 
 <p align="center">
