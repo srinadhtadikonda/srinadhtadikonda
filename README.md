@@ -235,7 +235,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 # 🏆 Achievements & Certifications
 
-## 👨‍💻 Google Developer
+## 👨‍💻 Google
 
 <p align="center">
 
@@ -247,7 +247,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
-## 🏆 Microsoft Learn Achievements
+## 🏆 Microsoft
 
 <p align="center">
 
@@ -259,7 +259,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
-## 🏅 Credly Badges
+## 🏅 Credly 
 
 <p align="center">
 
@@ -282,6 +282,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 </p>
 
 ---
+
 
 ## 🎖️ Holopin Badges
 
