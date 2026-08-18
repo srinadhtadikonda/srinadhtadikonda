@@ -356,10 +356,20 @@ I enjoy transforming ideas into working applications, extracting insights from d
 ---
 # 📈 GitHub Activity
 
+## 📊 GitHub Activity
+
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=srinadhtadikonda&show_icons=true&theme=highcontrast&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinadhtadikonda&theme=high-contrast" alt="GitHub Activity Graph"/>
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=srinadhtadikonda&theme=high-contrast&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
