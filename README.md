@@ -1,8 +1,8 @@
 <div align="center">
 
-👋 Hi, I'm Srinadh Tadikonda
+# 👋 Hi, I'm Srinadh Tadikonda
 
-💻 Software Developer • 📊 Data Analyst • 🤖 AI/ML Enthusiast • 🎓 Technology Mentor
+### 💻 Software Developer • 📊 Data Analyst • 🤖 AI/ML Enthusiast • 🎓 Technology Mentor
 
 <p>
   <a href="https://github.com/srinadhtadikonda">
@@ -16,75 +16,48 @@
 
 </div>
 
-👨‍💻 About Me
+---
 
-I am a technology-focused Software Developer, Data Analyst, AI/ML Enthusiast, and Technology Mentor with a passion for building practical solutions and helping others learn modern technologies.
+## 👨‍💻 About Me
 
-🚀 Areas of Interest
-
-💻 Software Development
-
-📊 Data Analytics & Business Intelligence
-
-🤖 Artificial Intelligence & Machine Learning
-
-🌐 Full-Stack Development
-
-☁️ Cloud Technologies
-
-⚙️ Automation
-
-🚀 Open Source
-
-🎓 Technology Mentoring
+I am a technology-focused **Software Developer, Data Analyst, AI/ML Enthusiast, and Technology Mentor** with a passion for building practical solutions and helping others learn modern technologies.
 
 I enjoy transforming ideas into working applications, extracting insights from data, and continuously exploring emerging technologies.
 
-🎯 Areas of Expertise
+---
 
-Area
+## 🚀 Areas of Interest
 
-Focus
+- 💻 Software Development
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full-Stack Development
+- ☁️ Cloud Technologies
+- ⚙️ Automation
+- 🚀 Open Source
+- 🎓 Technology Mentoring
 
-💻 Software Development
+---
 
-Full-Stack & Application Development
+## 🎯 Areas of Expertise
 
-📊 Data Analytics
+| Area | Focus |
+|------|-------|
+| 💻 Software Development | Full-Stack & Application Development |
+| 📊 Data Analytics | Data Analysis & Business Intelligence |
+| 🤖 AI & ML | Artificial Intelligence & Machine Learning |
+| 🐍 Python | Python Development & Data Science |
+| ☕ Java | Java & Backend Development |
+| 🌐 Frontend | Modern Web Development |
+| ☁️ Cloud & DevOps | Cloud, CI/CD & Deployment |
+| 🧪 Testing | Software Testing & Automation |
+| 🚀 Open Source | Open Source & Technology Mentoring |
 
-Data Analysis & Business Intelligence
+---
 
-🤖 AI & ML
+# 🛠️ Technology Stack
 
-Artificial Intelligence & Machine Learning
-
-🐍 Python
-
-Python Development & Data Science
-
-☕ Java
-
-Java & Backend Development
-
-🌐 Frontend
-
-Modern Web Development
-
-☁️ Cloud & DevOps
-
-Cloud, CI/CD & Deployment
-
-🧪 Testing
-
-Software Testing & Automation
-
-🚀 Open Source
-
-Open Source & Technology Mentoring
-
-🛠️ Technology Stack
-
-💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="center">
 
@@ -110,7 +83,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-🌐 Frontend Development
+---
+
+## 🌐 Frontend Development
 
 <p align="center">
 
@@ -134,7 +109,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-⚙️ Backend & Frameworks
+---
+
+## ⚙️ Backend & Frameworks
 
 <p align="center">
 
@@ -154,7 +131,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-🗄️ Databases
+---
+
+## 🗄️ Databases
 
 <p align="center">
 
@@ -170,7 +149,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-🤖 AI, Machine Learning & Data Science
+---
+
+## 🤖 AI, Machine Learning & Data Science
 
 <p align="center">
 
@@ -188,7 +169,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-📊 Data Analytics & Visualization
+---
+
+## 📊 Data Analytics & Visualization
 
 <p align="center">
 
@@ -206,7 +189,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-☁️ Cloud, DevOps & CI/CD
+---
+
+## ☁️ Cloud, DevOps & CI/CD
 
 <p align="center">
 
@@ -226,7 +211,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-🧪 Testing & Developer Tools
+---
+
+## 🧪 Testing & Developer Tools
 
 <p align="center">
 
@@ -246,9 +233,11 @@ Open Source & Technology Mentoring
 
 </p>
 
-🏆 Achievements & Certifications
+---
 
-👨‍💻 Google
+# 🏆 Achievements & Certifications
+
+## 👨‍💻 Google Developer
 
 <p align="center">
 
@@ -258,7 +247,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-🏆 Microsoft
+---
+
+## 🏆 Microsoft Learn
 
 <p align="center">
 
@@ -268,7 +259,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-🏅 Credly
+---
+
+## 🏅 Credly
 
 <p align="center">
 
@@ -278,7 +271,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-🏆 Kaggle
+---
+
+## 🏆 Kaggle
 
 <p align="center">
 
@@ -288,7 +283,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-🎓 freeCodeCamp
+---
+
+## 🎓 freeCodeCamp
 
 <p align="center">
 
@@ -297,9 +294,10 @@ Open Source & Technology Mentoring
 </a>
 
 </p>
+
 ---
 
-🎖️ Holopin Badges
+## 🎖️ Holopin Badges
 
 <p align="center">
 
@@ -309,7 +307,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-🪶 GirlScript Summer of Code 2026
+---
+
+## 🪶 GirlScript Summer of Code 2026
 
 <p align="center">
 
@@ -331,7 +331,9 @@ Open Source & Technology Mentoring
   <b>Mentor • Bounty Master • GSSoC 2026</b>
 </p>
 
-📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -351,7 +353,9 @@ Open Source & Technology Mentoring
 
 </p>
 
-📈 GitHub Activity
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
 
@@ -359,23 +363,32 @@ Open Source & Technology Mentoring
 
 </p>
 
-🔗 Connect With Me
+---
+
+# 🔗 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/srinadhtadikonda">GitHub</a>
- •  <a href="https://www.linkedin.com/in/srinadhtadikonda">LinkedIn</a>
- •  <a href="https://g.dev/srinadhtadikonda">Google Developer</a>
- •  <a href="https://www.youtube.com/@srinadhtadikonda">YouTube</a>
- •  <a href="https://srinadhtadikonda.hashnode.dev">Hashnode</a>
- •  <a href="https://www.dev.to/srinadhtadikonda">DEV Community</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/srinadhtadikonda">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="https://g.dev/srinadhtadikonda">Google Developer</a>
+&nbsp; • &nbsp;
+<a href="https://www.youtube.com/@srinadhtadikonda">YouTube</a>
+&nbsp; • &nbsp;
+<a href="https://srinadhtadikonda.hashnode.dev">Hashnode</a>
+&nbsp; • &nbsp;
+<a href="https://www.dev.to/srinadhtadikonda">DEV Community</a>
 
 </p>
 
+---
+
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-Build. Learn. Share. Grow. 🚀
+**Build. Learn. Share. Grow. 🚀**
 
 </div>
