@@ -145,6 +145,14 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
+
+
+<a href="https://me.developers.google.com/u/srinadhtadikonda">
+  <img src="https://img.shields.io/badge/Google%20Developer%20Program-Profile-4285F4?logo=google&logoColor=white" alt="Google Developer Program Profile"/>
+</a>
+
+
+
 ## 🏆 Achievements & Community
 
 [![An image of @srinadhtadikonda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srinadhtadikonda)](https://holopin.io/@srinadhtadikonda)
