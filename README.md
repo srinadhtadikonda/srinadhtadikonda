@@ -55,7 +55,13 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 # 🛠️ Technology Stack
+
 
 ## 💻 Programming Languages
 
