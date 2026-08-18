@@ -235,6 +235,10 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
+<a href="https://daily.dev/srinadhfaculty"><img src="https://api.daily.dev/devcards/v2/XTcO2bH5N6qBvFFUGmZBy.png?type=default&r=9xv" width="356" alt="SRINADH TADIKONDA's Dev Card"/></a>
+
+---
+
 # 🏆 Achievements & Certifications
 
 ## 👨‍💻 Google Developer
