@@ -158,6 +158,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 <a href="https://learn.microsoft.com/en-us/users/me/achievements#badges-section">
   <img src="https://img.shields.io/badge/Microsoft%20Learn-Achievements-5C2D91?style=for-the-badge&logo=microsoft" alt="Microsoft Learn Achievements"/>
 </a>
+</div>
 ---
 
 [![An image of @srinadhtadikonda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srinadhtadikonda)](https://holopin.io/@srinadhtadikonda)
