@@ -283,6 +283,15 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
+freeCodeCamp Profile
+
+<p align="center"> <a href="https://www.freecodecamp.org/srinadhtadikonda"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" width="120" alt="freeCodeCamp"> </a> </p>
+
+<h2 align="center">🏆 My freeCodeCamp Learning Journey</h2>
+
+<p align="center"> <a href="https://www.freecodecamp.org/srinadhtadikonda"> <img src="https://img.shields.io/badge/freeCodeCamp-Profile-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Profile"> </a> </p>
+---
+
 
 ## 🎖️ Holopin Badges
 
