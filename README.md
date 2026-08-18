@@ -154,7 +154,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 ---
 
 ### 🏆 Microsoft Learn Achievements
-
+<div>
 <a href="https://learn.microsoft.com/en-us/users/me/achievements#badges-section">
   <img src="https://img.shields.io/badge/Microsoft%20Learn-Achievements-5C2D91?style=for-the-badge&logo=microsoft" alt="Microsoft Learn Achievements"/>
 </a>
