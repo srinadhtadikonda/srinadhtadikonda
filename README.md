@@ -347,11 +347,6 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=srinadhtadikonda&icon=0&color=0" alt="Profile Views"/>
-
-</p>
 
 ---
 
@@ -383,6 +378,15 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
+---
+<div align="center">
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=srinadhtadikonda&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+</div>
 ---
 
 <div align="center">
