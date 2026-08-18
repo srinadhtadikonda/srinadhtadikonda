@@ -269,3 +269,18 @@ I enjoy transforming ideas into working applications, extracting insights from d
 **Build. Learn. Share. Grow. 🚀**
 
 </div>
+
+
+## 🏆 Achievements & Certifications
+
+<p align="center">
+
+<a href="https://learn.microsoft.com/en-us/users/me/achievements#badges-section">
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-Achievements-5C2D91?style=for-the-badge&logo=microsoft" alt="Microsoft Learn Achievements"/>
+</a>
+
+<a href="https://github.com/srinadhtadikonda">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+</a>
+
+</p>
