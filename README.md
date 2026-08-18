@@ -354,7 +354,6 @@ I enjoy transforming ideas into working applications, extracting insights from d
 </p>
 
 ---
-
 # 📈 GitHub Activity
 
 <p align="center">
