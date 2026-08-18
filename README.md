@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Srinadh Tadikonda
+👋 Hi, I'm Srinadh Tadikonda
 
-### 💻 Software Developer • 📊 Data Analyst • 🤖 AI/ML Enthusiast • 🎓 Technology Mentor
+💻 Software Developer • 📊 Data Analyst • 🤖 AI/ML Enthusiast • 🎓 Technology Mentor
 
 <p>
   <a href="https://github.com/srinadhtadikonda">
@@ -16,46 +16,75 @@
 
 </div>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+I am a technology-focused Software Developer, Data Analyst, AI/ML Enthusiast, and Technology Mentor with a passion for building practical solutions and helping others learn modern technologies.
 
-I am a technology-focused **Software Developer, Data Analyst, AI/ML Enthusiast, and Technology Mentor** with a passion for building practical solutions and helping others learn modern technologies.
+🚀 Areas of Interest
 
-### 🚀 Areas of Interest
+💻 Software Development
 
-* 💻 Software Development
-* 📊 Data Analytics & Business Intelligence
-* 🤖 Artificial Intelligence & Machine Learning
-* 🌐 Full-Stack Development
-* ☁️ Cloud Technologies
-* ⚙️ Automation
-* 🚀 Open Source
-* 🎓 Technology Mentoring
+📊 Data Analytics & Business Intelligence
+
+🤖 Artificial Intelligence & Machine Learning
+
+🌐 Full-Stack Development
+
+☁️ Cloud Technologies
+
+⚙️ Automation
+
+🚀 Open Source
+
+🎓 Technology Mentoring
 
 I enjoy transforming ideas into working applications, extracting insights from data, and continuously exploring emerging technologies.
 
----
+🎯 Areas of Expertise
 
-## 🎯 Areas of Expertise
+Area
 
-| Area                    | Focus                                      |
-| :---------------------- | :----------------------------------------- |
-| 💻 Software Development | Full-Stack & Application Development       |
-| 📊 Data Analytics       | Data Analysis & Business Intelligence      |
-| 🤖 AI & ML              | Artificial Intelligence & Machine Learning |
-| 🐍 Python               | Python Development & Data Science          |
-| ☕ Java                  | Java & Backend Development                 |
-| 🌐 Frontend             | Modern Web Development                     |
-| ☁️ Cloud & DevOps       | Cloud, CI/CD & Deployment                  |
-| 🧪 Testing              | Software Testing & Automation              |
-| 🚀 Open Source          | Open Source & Technology Mentoring         |
+Focus
 
----
+💻 Software Development
 
-# 🛠️ Technology Stack
+Full-Stack & Application Development
 
-## 💻 Programming Languages
+📊 Data Analytics
+
+Data Analysis & Business Intelligence
+
+🤖 AI & ML
+
+Artificial Intelligence & Machine Learning
+
+🐍 Python
+
+Python Development & Data Science
+
+☕ Java
+
+Java & Backend Development
+
+🌐 Frontend
+
+Modern Web Development
+
+☁️ Cloud & DevOps
+
+Cloud, CI/CD & Deployment
+
+🧪 Testing
+
+Software Testing & Automation
+
+🚀 Open Source
+
+Open Source & Technology Mentoring
+
+🛠️ Technology Stack
+
+💻 Programming Languages
 
 <p align="center">
 
@@ -81,9 +110,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-## 🌐 Frontend Development
+🌐 Frontend Development
 
 <p align="center">
 
@@ -107,9 +134,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-## ⚙️ Backend & Frameworks
+⚙️ Backend & Frameworks
 
 <p align="center">
 
@@ -129,9 +154,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-## 🗄️ Databases
+🗄️ Databases
 
 <p align="center">
 
@@ -147,9 +170,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-## 🤖 AI, Machine Learning & Data Science
+🤖 AI, Machine Learning & Data Science
 
 <p align="center">
 
@@ -167,9 +188,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-## 📊 Data Analytics & Visualization
+📊 Data Analytics & Visualization
 
 <p align="center">
 
@@ -187,9 +206,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-## ☁️ Cloud, DevOps & CI/CD
+☁️ Cloud, DevOps & CI/CD
 
 <p align="center">
 
@@ -209,9 +226,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-## 🧪 Testing & Developer Tools
+🧪 Testing & Developer Tools
 
 <p align="center">
 
@@ -231,11 +246,9 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
+🏆 Achievements & Certifications
 
-# 🏆 Achievements & Certifications
-
-## 👨‍💻 Google
+👨‍💻 Google
 
 <p align="center">
 
@@ -245,9 +258,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-## 🏆 Microsoft
+🏆 Microsoft
 
 <p align="center">
 
@@ -257,9 +268,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-## 🏅 Credly 
+🏅 Credly
 
 <p align="center">
 
@@ -269,9 +278,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-## 🏆 Kaggle
+🏆 Kaggle
 
 <p align="center">
 
@@ -281,15 +288,18 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
+🎓 freeCodeCamp
+
+<p align="center">
+
+<a href="https://www.freecodecamp.org/srinadhtadikonda">
+  <img src="https://img.shields.io/badge/freeCodeCamp-Profile-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Profile"/>
+</a>
+
+</p>
 ---
 
-## freeCodeCamp
-
-<p align="center"> <a href="https://www.freecodecamp.org/srinadhtadikonda"> <img src="https://img.shields.io/badge/freeCodeCamp-Profile-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Profile"> </a> </p>
----
-
-
-## 🎖️ Holopin Badges
+🎖️ Holopin Badges
 
 <p align="center">
 
@@ -299,9 +309,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-## 🪶 GirlScript Summer of Code 2026
+🪶 GirlScript Summer of Code 2026
 
 <p align="center">
 
@@ -323,9 +331,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
   <b>Mentor • Bounty Master • GSSoC 2026</b>
 </p>
 
----
-
-# 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="center">
 
@@ -345,9 +351,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-# 📈 GitHub Activity
+📈 GitHub Activity
 
 <p align="center">
 
@@ -355,9 +359,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
-# 🔗 Connect With Me
+🔗 Connect With Me
 
 <p align="center">
 
@@ -370,12 +372,10 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 </p>
 
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-**Build. Learn. Share. Grow. 🚀**
+Build. Learn. Share. Grow. 🚀
 
 </div>
