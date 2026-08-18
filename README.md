@@ -387,7 +387,6 @@ I enjoy transforming ideas into working applications, extracting insights from d
   />
 </p>
 </div>
----
 
 <div align="center">
 
