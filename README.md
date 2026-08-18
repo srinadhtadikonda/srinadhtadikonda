@@ -271,7 +271,7 @@ I enjoy transforming ideas into working applications, extracting insights from d
 
 ---
 
-## 🏆 KAGGLE
+## 🏆 Kaggle
 
 <p align="center">
 
